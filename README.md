@@ -1,3 +1,1 @@
-# m02n
-
-Test file created. Starting point for test-driven reimplementation.
+Instructor output for equity percentage test file, created by AI.
