@@ -1,1 +1,9 @@
-Instructor output for equity percentage test file, created by AI.
+Continuing on from the prior unit, this project contails the resulting output of the instructor's AI when prompted for the equity percentage test in `people_headcount_app.py`.
+
+To run the Streamlit app:
+
+```bash
+streamlit run people_headcount_app.py
+```
+
+
